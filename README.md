@@ -21,5 +21,5 @@ Just clone the git repo, and click on `index.html` and this will start the game 
 
 ### Credits
 
-Montana Mendy
-Michelle Pruitt (Creatives)
+* Montana Mendy (Code/Logic)
+* Michelle Pruitt (Creatives)
