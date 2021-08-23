@@ -18,4 +18,8 @@ Just clone the git repo, and click on `index.html` and this will start the game 
 * Levels 
 * Ending
 
-Author: Montana Mendy
+
+### Credits
+
+Montana Mendy
+Michelle Pruitt (Creatives)
