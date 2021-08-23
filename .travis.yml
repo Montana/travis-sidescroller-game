@@ -1,5 +1,4 @@
 ---
 language: minimal 
 script: echo "let's start playing!"
-    - uname -r 
-    - free
+after_install: free
