@@ -15,3 +15,5 @@ Just clone the git repo, and click on `index.html` and this will start the game 
 * Verbose outputs 
 * Levels 
 * Ending
+
+Author: Montana Mendy
