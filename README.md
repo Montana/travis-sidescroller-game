@@ -1,3 +1,5 @@
+[![Build Status](https://app.travis-ci.com/Montana/travis-sidescroller-game.svg?branch=master)](https://app.travis-ci.com/Montana/travis-sidescroller-game)
+
 <img width="1307" alt="test" src="https://user-images.githubusercontent.com/20936398/130499993-9ed5efde-1dcd-4523-adca-40f8c9d91e32.png">
 
 # Travis CI Side Scrolling Game made by Montana Mendy 
