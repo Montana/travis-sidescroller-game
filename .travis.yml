@@ -1,3 +1,5 @@
 ---
 language: minimal 
-script: echo "yippe!!!" 
+script: echo "let's start playing!"
+    - uname -r 
+    - free
