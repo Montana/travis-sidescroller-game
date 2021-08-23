@@ -4,11 +4,11 @@
 
 # Travis CI Side Scrolling Game made by Montana Mendy 
 
-This was made on the weekend of August 21-22, 2021 by Montana Mendy. I've made it simple to start, and start playing. It features Mr. T dodging broken builds, win32, spaghetti code and much more.
+This was made on the weekend of August 21-22, 2021 by Montana Mendy. I've made it simple to start, and start playing. It features Mr. T dodging broken builds, win32, spaghetti code and much more. Each time you get hit by an object, it's `-3` from your baseline of `100`. 
 
 ## Usage
 
-Just clone the git repo, and click on `index.html` and this will start the game locally. I made this in a way (CSS) so it would be easy to use deliaberetly instead of using something like JavaScript (which that version is in the works).
+Just clone the git repo, and click on `index.html` and this will start the game locally. I made this in a way (CSS) so it would be easy to use deliaberetly instead of using something like JavaScript (which that version is in the works). 
 
 ## TODO: 
 
@@ -17,6 +17,10 @@ Just clone the git repo, and click on `index.html` and this will start the game 
 * Verbose outputs 
 * Levels 
 * Ending
+
+## Keys
+
+Use keypad to navigate Mr. T. 
 
 
 ### Credits
